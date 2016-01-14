@@ -38,7 +38,7 @@ CREATE TABLE IF NOT EXISTS `person` (
 --
 
 INSERT INTO `person` (`id`, `name`, `address`, `hobbies`) VALUES
-(1, 'Gonto', 'Majalengka Kota', 'Guitarist'),
+(1, 'Herudi', 'Majalengka Kota', 'Guitarist'),
 (3, 'Kasja', 'Majalengka', 'Drummer'),
 (4, 'Yayan', 'Bandung', 'Gool Keeper'),
 (6, 'Rudy', 'Bogor', 'Guitarist'),
